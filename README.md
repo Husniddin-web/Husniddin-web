@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=husniddin-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/media/7ed78e88a37661ff1bbaeb0980f98eec.gif">
