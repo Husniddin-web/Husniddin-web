@@ -95,6 +95,14 @@ I design backend-first products with clear APIs, secure data flows, and scalable
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniddin-web&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/husniddin-web/husniddin-web/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/husniddin-web/husniddin-web/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/husniddin-web/husniddin-web/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution" />
+  </picture>
+</p>
+
 ---
 
 ### Lets Connect
