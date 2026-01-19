@@ -1,56 +1,61 @@
-<h1 align="center">Hi 👋, I'm Husniddin Salohiddinov</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | API Architect</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=200&section=header&text=Husniddin%20Salohiddinov&fontSize=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20-%20Backend%20Architect&descAlignY=65" alt="Header" />
+</div>
+
+<h2 align="center">Building reliable backend systems and clean, fast web apps</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husniddin-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:husniddinsalohiddinov1974@gmail.com">husniddinsalohiddinov1974@gmail.com</a> |
+  <a href="https://linkedin.com/in/husniddin-web" target="_blank">LinkedIn</a> |
+  <a href="https://www.leetcode.com/husniddin" target="_blank">LeetCode</a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/media/7ed78e88a37661ff1bbaeb0980f98eec.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husniddin-web&label=Profile%20views&color=0E7490&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Timezone-Asia%2FTashkent-0E7490" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0E7490" alt="Open to Collaboration" />
+</p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 **Currently Learning:** Advanced Backend Architectures & Scalable Systems  
-- 💬 **Ask Me About:** Full Stack Development, APIs, DevOps, and Cloud Deployments  
-- 📫 **Contact Me:** husniddinsalohiddinov1974@gmail.com  
-- ⚡ **Fun Fact:** I love solving coding challenges and automating workflows!  
+### About
+I design backend-first products with clear APIs, secure data flows, and scalable architectures. I enjoy turning ideas into production-ready systems, and I care about performance, observability, and developer experience.
+
+### What I Focus On
+- **Backend Architecture:** scalable Node.js services, NestJS apps, and clean REST/GraphQL APIs
+- **System Reliability:** caching, monitoring, and performance tuning
+- **Product Delivery:** fast iteration, well-documented interfaces, and clean deployment pipelines
 
 ---
 
-### 🛠️ Tech Stack  
-
-#### 🔹 Backend  
-`Node.js` • `NestJS` • `Express.js`  
-
-#### 🔹 Frontend  
-`React.js` • `Next.js`  
-
-#### 🔹 Databases  
-`MongoDB` • `PostgreSQL` • `MySQL`  
-
-#### 🔹 APIs & Cloud  
-`REST` • `GraphQL` • `Docker` • `AWS` • `Heroku`  
-
-#### 🔹 Tools & Others  
-`Git` • `Linux` • `Telegram Bot API` • `VS Code`  
+### Tech Stack
+**Backend:** Node.js, NestJS, Express.js  
+**Frontend:** React.js, Next.js  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Cloud & DevOps:** Docker, AWS, CI/CD  
+**Tooling:** Git, Linux, VS Code, Telegram Bot API
 
 ---
 
-### 📊 GitHub Stats  
+### Featured Projects
+- **Project Alpha** - API platform for high-traffic services. `NestJS` `PostgreSQL` `Redis`
+- **Project Beta** - SaaS dashboard with realtime analytics. `Next.js` `Node.js`
+- **Project Gamma** - Automation bot with scalable task pipelines. `Telegram Bot API`
+
+> Replace the project names and short descriptions with your real repositories for a stronger portfolio.
+
+---
+
+### GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=husniddin-web&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=husniddin-web&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husniddin-web&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/husniddin-web" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/husniddin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+### Lets Connect
+If you have a project, a backend challenge, or an idea to build, feel free to reach out. I'm open to collaboration and freelance opportunities.
