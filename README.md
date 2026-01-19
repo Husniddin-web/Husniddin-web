@@ -16,6 +16,18 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-0E7490" alt="Open to Collaboration" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/husniddin-web?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0E7490?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/husniddin-web?tab=stars">
+    <img src="https://img.shields.io/badge/Favorites-Starred%20Repos-0E7490?style=for-the-badge" alt="Favorites" />
+  </a>
+  <a href="mailto:husniddinsalohiddinov1974@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-0E7490?style=for-the-badge" alt="Contact" />
+  </a>
+</p>
+
 ---
 
 ### About
@@ -34,6 +46,34 @@ I design backend-first products with clear APIs, secure data flows, and scalable
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Cloud & DevOps:** Docker, AWS, CI/CD  
 **Tooling:** Git, Linux, VS Code, Telegram Bot API
+
+---
+
+### Creative Snapshot
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Now Building</h4>
+      <ul>
+        <li>High-performance API services with caching layers</li>
+        <li>Type-safe backends and clean domain models</li>
+        <li>Analytics dashboards with low-latency data flows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>What I Can Deliver</h4>
+      <ul>
+        <li>API design and documentation</li>
+        <li>Backend architecture and refactors</li>
+        <li>Deployment automation and CI/CD setup</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,postgres,mongodb,redis,docker,aws,git,linux" alt="Skill Icons" />
+</p>
 
 ---
 
